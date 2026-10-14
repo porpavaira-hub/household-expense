@@ -1,0 +1,6 @@
+target/
+*.class
+household.db
+.idea/
+.vscode/
+*.iml
